@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alifnay&label=Profile%20views&color=0e75b6&style=flat" alt="alifnay" /> </p>
 
-- 💹 Front End MarketCraft [UNYCraft](https://github.com/alifnay/frontend-marketcraft)
-
-- 🌱 I’m currently learning **Android Development, Machine Learning**
-
 - 📫 How to reach me **naywaalif@gmail.com**
+
+<h3 align="left">Project:</h3>
+
+- Front End MarketCraft [UNYCraft](https://github.com/alifnay/frontend-marketcraft)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alif-naywa-azzikra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alif naywa azzikra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alif naywa azzikra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alif naywa azzikra" height="30" width="40" /></a>
 <a href="https://instagram.com/alifnaywa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alifnaywa_" height="30" width="40" /></a>
 </p>
 
