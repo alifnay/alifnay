@@ -11,6 +11,7 @@
 <h3 align="left">Project:</h3>
 
 - Front End MarketCraft [UNYCraft](https://github.com/alifnay/frontend-marketcraft)
+- Machine Learning [Rock, Paper, Scissors](https://github.com/alifnay/machine_learning_dicoding)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
